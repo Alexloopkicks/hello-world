@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Acrobat in California trying to learn coding
